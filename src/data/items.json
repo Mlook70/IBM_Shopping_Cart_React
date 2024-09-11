@@ -3,7 +3,7 @@
     "id": 1,
     "name": "product01",
     "price": 10.99,
-    "imgUrl": "/images/product01.png"
+    "imgUrl": "/images/product05.png"
 },
 {
     "id": 2,
@@ -27,7 +27,7 @@
     "id": 5,
     "name": "product05",
     "price": 14000,
-    "imgUrl": "/images/product05.png"
+    "imgUrl": "/images/product01.png"
 },
 {
     "id": 6,
