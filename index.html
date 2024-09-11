@@ -7,7 +7,7 @@
     <title>Vite + React + TS</title>
     <style>
       body {
-        background-image: url('/images/bg.jpg');
+        background-image: url('./images/bg.jpg'); /* Update to a relative path */
         background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
@@ -18,6 +18,6 @@
   </head>
   <body>
     <div id="root"></div>
-    <script type="module" src="/src/main.tsx"></script>
+    <script type="module" src="./src/main.tsx"></script> <!-- Update to a relative path -->
   </body>
 </html>
